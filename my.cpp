@@ -28,12 +28,7 @@ using namespace std;
 
 int main()
 {
-<<<<<<< 7a70a211dd25a465592e3d5e8bda7b0dc5cd56a3
-=======
-<<<<<<< 7a70a211dd25a465592e3d5e8bda7b0dc5cd56a3
-=======
 	int a, b;
->>>>>>> 增加了一些输入
->>>>>>> 添加了输入
+	cin >> a >> b;
 	return 0;
 }
